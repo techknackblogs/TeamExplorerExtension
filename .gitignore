@@ -5,3 +5,8 @@
 *.dll
 /TeamExplorerExtension/obj/Debug
 /TeamExplorerExtension/bin/Debug
+/.vs/TeamExplorerExtension/v15/Server/sqlite3/storage.ide-wal
+/.vs/TeamExplorerExtension/v15/Server/sqlite3/storage.ide-shm
+/.vs/TeamExplorerExtension/v15/Server/sqlite3/storage.ide
+/.vs/TeamExplorerExtension/v15/Server/sqlite3/db.lock
+/.vs/TeamExplorerExtension/v15/.suo
